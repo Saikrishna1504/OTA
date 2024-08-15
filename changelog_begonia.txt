@@ -1,1 +1,11 @@
-Initial Unofficial OTA
+VoltageOS 3.6
+Build Date : 15/08/2024
+- Upstreamed Kernel to v4.14.350-openela
+- Added Updater (Unofficial Builds support for OTA)
+- Added Ignore Window SecureFlag Option
+- Fixed MtkFMRadio
+- Fixed BT & Video Playback issues
+- Switch to SW C2
+- Patched necessary libs for QPR3_A14
+- Enable battery cycle count 
+
