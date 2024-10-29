@@ -1,4 +1,15 @@
-VoltageOS 3.6
+VoltageOS v3.7
+Build Date : 29/10/2024
+- September Security Patch
+- OTA Pushed | Dirty flashable 
+- Upstreamed Kernel to v4.14.352-openela
+- Added Few more Backports in Kernel
+- Fixed Screen Recorder
+- Fixed Video Playback
+- Fixed TG Video playing
+- Fixed Screen Flickering 
+
+VoltageOS v3.6
 Build Date : 15/08/2024
 - Upstreamed Kernel to v4.14.350-openela
 - Added Updater (Unofficial Builds support for OTA)
