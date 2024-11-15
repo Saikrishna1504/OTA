@@ -1,0 +1,13 @@
+VoltageOS v4.0
+Build Date : 29/10/2024
+- November Security Patch
+- Initial A15 Build
+- Added stock MiuiCamera
+- Added SmartPixels support 
+- Added Per-App Refresh Rate Option 
+- Added Thermal Profiles, Clear Speaker 
+- Added Charge control Support 
+- Set ScreenRecording framerate to 90fps
+- Enabled Battery cycle count
+- Switch to power-libperfmgr
+
