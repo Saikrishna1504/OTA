@@ -1,22 +1,8 @@
-VoltageOS v3.7
-Build Date : 29/10/2024
-- September Security Patch
-- OTA Pushed | Dirty flashable 
-- Upstreamed Kernel to v4.14.352-openela
-- Added Few more Backports in Kernel
-- Fixed Screen Recorder
-- Fixed Video Playback
-- Fixed TG Video playing
-- Fixed Screen Flickering 
-
-VoltageOS v3.6
-Build Date : 15/08/2024
-- Upstreamed Kernel to v4.14.350-openela
-- Added Updater (Unofficial Builds support for OTA)
-- Added Ignore Window SecureFlag Option
-- Fixed MtkFMRadio
-- Fixed BT & Video Playback issues
-- Switch to SW C2
-- Patched necessary libs for QPR3_A14
-- Enable battery cycle count 
-
+VoltageOS v4.0
+Build Date : 28/11/2024
+- Initial A15 Build
+- November Security Patch
+- Fixed Edge Screen flickering
+- Set Screen Density as 440 by default
+- Dropped Useless stuff
+- Many more Misc changes
