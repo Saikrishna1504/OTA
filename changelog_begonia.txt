@@ -1,3 +1,10 @@
+VoltageOS v4.0.10
+Build Date : 08/12/2024
+- Dropped Few unwanted blobs
+- Set DPI as 440
+- Libprotobuf spam fixed
+- Fixed Fingerprint Log Spam
+
 VoltageOS v4.0
 Build Date : 28/11/2024
 - Initial A15 Build
