@@ -1,4 +1,11 @@
 VoltageOS v4.0
+Build Date : 05/01/2025
+- Added Google's Circle to Search feature
+- Added Zram info in launcher Recent's preview
+- Fixed MiuiCamera icon
+- Updated blobs from OS1.0.14.0.UNLMIXM
+
+VoltageOS v4.0
 Build Date : 29/10/2024
 - November Security Patch
 - Initial A15 Build
