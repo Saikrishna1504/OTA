@@ -1,14 +1,14 @@
 {
   "response": [
     {
-        "maintainer": "Saikrishna",
+        "maintainer": "SaiKrishna",
         "oem": "POCO",
         "device": "Poco X6 Pro",
-        "filename": "voltage-4.0.1-duchamp-20250103-0635-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-4.0.1-duchamp-20250103-0635-UNOFFICIAL.zip/download",
-        "timestamp": 1735887612,
-        "md5": "9e029968c09505cfc349c7817325ef28",
-        "size": 2191752997,
+        "filename": "voltage-4.0.1-duchamp-20250112-0129-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-4.0.1-duchamp-20250112-0129-UNOFFICIAL.zip/download",
+        "timestamp": 1736645373,
+        "md5": "fdc7e2e4b1484ce55436a1dd4a24c919",
+        "size": 2172788799,
         "version": "4.0.1"
     }
   ]

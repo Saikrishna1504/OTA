@@ -1,4 +1,10 @@
-VoltageOS v4.0
+VoltageOS v4.0.1 - HOTFIX
+Build Date : 12/01/2025
+- Fixed Deep Sleep
+- Improved Auto brightness responsiveness
+- Added Hide MyAppList (WIP)
+
+VoltageOS v4.0.1
 Build Date : 05/01/2025
 - Added Google's Circle to Search feature
 - Added Zram info in launcher Recent's preview
