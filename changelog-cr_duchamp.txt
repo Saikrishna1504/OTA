@@ -1,6 +1,0 @@
-CrDroid V11.1
-Build Date : 03/02/2025
-- Initial A15 Build
-- Added missing permissions for miuicamera
-- All Xiaomi parts available ( Same as Voltage OS )
-
