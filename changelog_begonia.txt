@@ -1,3 +1,15 @@
+VoltageOS v4.2
+Build Date: 17/02/2025
+- Fixed Green screen flashing randomly
+- Fixed FmRadio Crash
+- Fixed /metadata corruption log spam
+- Removed leftover IO read_ahead_kb tune config
+- Disabled FRP
+- Dropped MTK software OMX codecs
+- Restart C2 services after every boot
+- Updated performance media codecs data
+- Added c2.android.av1-dav1d.decoder
+
 VoltageOS v4.1
 Build Date : 26/01/2025
 - Fixed 5 press power button quickly 5 times trigger SOS
