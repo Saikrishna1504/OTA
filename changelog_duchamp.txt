@@ -1,37 +1,5 @@
-VoltageOS v4.1
-Build Date : 30/01/2025
-- Fixed Volte/Vowifi
-- Fixed MiuiCamera gallery preview Opening (Third party gallery)
-- Added High Touch Sampling Rate QS Tile (Fixed properly)
-- Added Thermal Profile QS Tile
-- Added RefreshRate QS Tile
-- Added PowerOffAlarm
-- Dropped Useless AVB keys
-- Updated blobs from OS2.0.1.0.VNLMIXM
-
-VoltageOS v4.0.1 - HOTFIX
-Build Date : 12/01/2025
-- Fixed Deep Sleep
-- Improved Auto brightness responsiveness
-- Added Hide MyAppList (WIP)
-
-VoltageOS v4.0.1
-Build Date : 05/01/2025
-- Added Google's Circle to Search feature
-- Added Zram info in launcher Recent's preview
-- Fixed MiuiCamera icon
-- Updated blobs from OS1.0.14.0.UNLMIXM
-
-VoltageOS v4.0
-Build Date : 29/10/2024
-- November Security Patch
+CrDroid V11.2
+Build Date : 20/02/2025
 - Initial A15 Build
-- Added stock MiuiCamera
-- Added SmartPixels support 
-- Added Per-App Refresh Rate Option 
-- Added Thermal Profiles, Clear Speaker 
-- Added Charge control Support 
-- Set ScreenRecording framerate to 90fps
-- Enabled Battery cycle count
-- Switch to power-libperfmgr
-
+- EngineerMode Included
+- All Xiaomi parts available ( Same as Voltage OS )

@@ -1,15 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "SaiKrishna",
-        "oem": "POCO",
-        "device": "Poco X6 Pro",
-        "filename": "voltage-4.1-duchamp-20250130-1529-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-4.1-duchamp-20250130-1529-UNOFFICIAL.zip/download",
-        "timestamp": 1738250878,
-        "md5": "46803a030562b885b811bf8ad013e0c1",
-        "size": 2160114562,
-        "version": "4.1"
-    }
-  ]
+    "response": [
+        {
+            "maintainer": "Sai Krishna",
+            "oem": "POCO",
+            "device": "POCO X6 PRO",
+            "filename": "crDroidAndroid-15.0-20250220-duchamp-v11.2.zip",
+            "download": "https://github.com/Saikrishna1504/OTA/releases/download/crDroid-duchamp/crDroidAndroid-15.0-20250220-duchamp-v11.2.zip",
+            "timestamp": 1740048691,
+            "md5": "e6c550eb859e32b9b040db8d4b2163d6",
+            "sha256": "6958801e9d9063f5c74ad5bc53344480b314ec34f421afbf86f892df0fabecb4",
+            "size": 2100507412,
+            "version": "11.2",
+            "buildtype": "",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "Saikrishna1504",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
 }
