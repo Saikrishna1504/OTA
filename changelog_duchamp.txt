@@ -1,3 +1,10 @@
+VoltageOS v4.2
+Build Date : 22/02/2025
+- Enforcing Build
+- Dropped MiuiCamera(will add it back soon)
+- Added EngineerMode
+- Added Viper4Android
+
 VoltageOS v4.1
 Build Date : 30/01/2025
 - Fixed Volte/Vowifi
