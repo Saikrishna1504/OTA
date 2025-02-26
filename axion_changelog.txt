@@ -1,0 +1,4 @@
+AxionOS v1.1
+Build Date : 26/02/2025
+- Initial Build
+- OTA support available
