@@ -1,3 +1,12 @@
+CrDroid V11.4
+Build Date : 13/04/2025
+- QPR2 April SP
+- Added MiuiCamera
+- Fixed MiuiCamera Themed icon
+- Fixed PowerOffAlarm
+- Included Viper4A
+- Labelled few missing sepolicies
+
 CrDroid V11.2
 Build Date : 20/02/2025
 - Initial A15 Build
