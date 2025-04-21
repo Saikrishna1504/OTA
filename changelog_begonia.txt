@@ -1,3 +1,12 @@
+VoltageOS v4.3
+Build Date: 21/04/2025
+- QPR2 APRIL SP
+- Added EngineerMode Back
+- Dropped hotword entrollment APKs
+- Updated audio policy volumes from AOSP
+- Moved Few blobs , apks into System/ partition
+- Some Misc changes in kernel
+
 VoltageOS v4.2
 Build Date: 17/02/2025
 - Fixed Green screen flashing randomly
