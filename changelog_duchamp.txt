@@ -1,3 +1,12 @@
+VoltageOS v4.3
+Build Date : 06/05/2025
+- Added MiuiCamer Back
+- Fixed MiuiCamera themed icon
+- Fixed SOFOD for goodix users
+- Relax auto-brightness adjustment
+- Tweaked NFC Payment speed
+- Some more Misc changes
+
 VoltageOS v4.2
 Build Date : 22/02/2025
 - Enforcing Build

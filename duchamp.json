@@ -4,12 +4,12 @@
         "maintainer": "SaiKrishna",
         "oem": "POCO",
         "device": "Poco X6 Pro",
-        "filename": "voltage-4.2-duchamp-20250222-1006-UNOFFICIAL.zip",
-        "download": "https://github.com/Saikrishna1504/OTA/releases/download/v4.2/voltage-4.2-duchamp-20250222-1006-UNOFFICIAL.zip",
-        "timestamp": 1740218483,
-        "md5": "d3832eff562ffaf0526aa56ceaadd6b6",
-        "size": 2063884133,
-        "version": "4.2"
+        "filename": "voltage-4.3-duchamp-20250506-0619-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-4.3-duchamp-20250506-0619-UNOFFICIAL.zip/download",
+        "timestamp": 1746512101,
+        "md5": "89126b62963d07f646f9963fdd6e2c1c",
+        "size": 2203116618,
+        "version": "4.3"
     }
   ]
 }
