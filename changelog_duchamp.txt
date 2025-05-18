@@ -1,3 +1,10 @@
+VoltageOS v4.4
+Build Date : 18/05/2025
+- May Security Patch
+- Disbled Native stats collection servies
+- Fixed voWifi in airplane mode
+- Small Misc changes
+
 VoltageOS v4.3
 Build Date : 06/05/2025
 - Added MiuiCamer Back
