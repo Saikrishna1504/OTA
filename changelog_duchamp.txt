@@ -1,3 +1,11 @@
+CrDroid V11.5
+Build Date : 31/05/2025
+- Fixed SOFOD for goodix users
+- Relax auto-brightness adjustment
+- Disbled Native stats collection servies
+- Fixed voWifi in airplane mode
+- Small Misc changes
+
 CrDroid V11.4
 Build Date : 13/04/2025
 - QPR2 April SP
