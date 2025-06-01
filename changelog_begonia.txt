@@ -1,3 +1,15 @@
+VoltageOS v4.4
+Build Date: 02/06/2025
+- Tweaked Vibration Settings
+- Built Common FMRadio
+- Move to OSS Libfmjni
+- Improved DT2W services using Xiaomi-touch
+- Dropped unused 64-bit Audio blobs
+- Dropped unused 32-bit Bluetooth blobs
+- Dropped unused 32-bit Camera blobs
+- Some more Misc Chabges
+- Included Latest PoWeR kernel
+
 VoltageOS v4.3
 Build Date: 21/04/2025
 - QPR2 APRIL SP
