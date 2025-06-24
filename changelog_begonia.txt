@@ -1,3 +1,12 @@
+VoltageOS v4.5 - EOL
+Build Date: 24/06/2025
+- Use HintManager for HWUI
+- remove debug.sf.disable_client_composition_cache 
+- Enable erroneous data reporting
+- Shut hwcomposer spam
+- Silence HWUI logspam
+- Added More bpf patches in kernel
+
 VoltageOS v4.4
 Build Date: 02/06/2025
 - Tweaked Vibration Settings
