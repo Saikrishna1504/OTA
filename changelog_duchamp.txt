@@ -1,0 +1,8 @@
+VoltageOS v5.0
+Build Date : 24/08/2025
+- Initial A16 Build
+- Switch to AIDL bluetooth service
+- Fixed front cam for global users
+- Fixed Screen flickering
+- Enabled blur by default
+- Configured Cpu offsets(Cpu boost framework)
