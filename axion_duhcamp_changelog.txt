@@ -1,0 +1,10 @@
+AxionOS v2.0 - BETA3
+Build Date : 27/08/2025
+- Initial A16 Build
+- Fixed EngineerMode 
+- Shifted to Bluetooth aidl services
+- Fixed MiuiCamera Potrait Mode
+- Viper4A included
+- Fixed image colors flickering
+- Added Performance mode(Settings -> Battery -> Peformance mode {May cause excess heat & drain})
+- Tuned Powerhint to match axion boost framework
