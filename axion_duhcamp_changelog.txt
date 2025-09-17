@@ -1,3 +1,10 @@
+AxionOS v2.0 - BETA4
+Build Date : 17/07/2025
+- Auto high touch polling Rate in games
+- Fixed Heating issues
+- Settings > Special Features > Experimental > Performance ( Tune as per your usage)
+- Few misc changes
+
 AxionOS v2.0 - BETA3
 Build Date : 27/08/2025
 - Initial A16 Build
