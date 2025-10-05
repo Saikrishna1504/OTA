@@ -1,3 +1,12 @@
+VoltageOS v5.1
+Build Date : 05/10/2025
+- Full OSS Kernel
+- Added missing EngineerMode Bandlock
+- Added BesLoudness(Audio booster)
+- Added Torch light strength control
+- Moved to Stock Vibrator blobs
+- High touch polling rate 500hz works automatically in games (just add your game to gamespace and enjoy)
+
 VoltageOS v5.0
 Build Date : 24/08/2025
 - Initial A16 Build

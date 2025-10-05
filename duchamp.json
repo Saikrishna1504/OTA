@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "Sai Krishna",
-        "oem": "POCO",
-        "device": "Poco X6 Pro",
-        "filename": "voltage-5.0-duchamp-20250824-0329-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-5.0-duchamp-20250824-0329-UNOFFICIAL.zip/download",
-        "timestamp": 1756010882,
-        "md5": "eb256fe6c2597146d1e0603124f406b1",
-        "size": 2175348714,
-        "version": "5.0"
+        "maintainer": "",
+        "oem": "",
+        "device": "",
+        "filename": "voltage-5.1-duchamp-20251005-1402-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-5.1-duchamp-20251005-1402-UNOFFICIAL.zip/download",
+        "timestamp": 1759672665,
+        "md5": "e119706da39624297509470f9e9b6ce2",
+        "size": 2171930927,
+        "version": "5.1"
     }
   ]
 }
