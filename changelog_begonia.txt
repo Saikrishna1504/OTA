@@ -1,3 +1,11 @@
+VoltageOS v5.1
+Build Date : 12/10/2025
+- Switch to AIDL bluetooth service
+- Enabled UFFD GC Support (Memory management related)
+- Switch to NCM USB tethering
+- Disabled Few more unwanted loggers
+- More Misc changes
+
 VoltageOS v5.0 
 Build Date : 20/08/2025
 - Fixed Video Recording (A16 issue)
