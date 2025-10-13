@@ -1,3 +1,9 @@
+VoltageOS v5.2
+Build Date : 13/10/2025
+- Upstreamed Kernel to 6.1.68
+- Fixed UI Elements Flickering
+- Added HDR Brightness Slider
+
 VoltageOS v5.1
 Build Date : 05/10/2025
 - Full OSS Kernel
