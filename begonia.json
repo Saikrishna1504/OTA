@@ -4,12 +4,12 @@
         "maintainer": "Sai Krishna",
         "oem": "Xiaomi",
         "device": "Redmi Note 8 Pro",
-        "filename": "voltage-5.1-begonia-20251012-1205-UNOFFICIAL.zip",
-        "download": "https://github.com/Saikrishna1504/OTA/releases/download/Vos_v5.1/voltage-5.1-begonia-20251012-1205-UNOFFICIAL.zip",
-        "timestamp": 1760270631,
-        "md5": "0d72cca75264d56d6650871d14c205f2",
-        "size": 1819052901,
-        "version": "5.1"
+        "filename": "voltage-5.3-begonia-20251120-0539-UNOFFICIAL.zip",
+        "download": "https://github.com/Saikrishna1504/OTA/releases/download/Vos_v5.3/voltage-5.3-begonia-20251120-0539-UNOFFICIAL.zip",
+        "timestamp": 1763616839,
+        "md5": "be5cd96e60ca4646bdaefef89d33bec6",
+        "size": 1819921870,
+        "version": "5.3"
     }
   ]
 }
