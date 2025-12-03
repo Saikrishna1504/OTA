@@ -1,3 +1,11 @@
+VoltageOS v5.3
+Build Date : 03/12/2025
+- Fixed Wifi wpa2 connectivity for old routers
+- Seperated 2.4Ghz & 5Ghz option in hotspot settings
+- Added modified thermals(fixes half ded gpu)
+- Enabled zram writeback
+- Many More MISC Changes
+
 VoltageOS v5.2
 Build Date : 13/10/2025
 - Upstreamed Kernel to 6.1.68

@@ -4,12 +4,12 @@
         "maintainer": "SaiKrishna",
         "oem": "POCO",
         "device": "Poco X6 Pro",
-        "filename": "voltage-5.2-duchamp-20251013-0617-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-5.2-duchamp-20251013-0617-UNOFFICIAL.zip/download",
-        "timestamp": 1760336236,
-        "md5": "ad2530d25e5c7b76f2934095d1ce1eea",
-        "size": 2168863073,
-        "version": "5.2"
+        "filename": "voltage-5.3-duchamp-20251203-1006-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/vosduchamp/files/voltage-5.3-duchamp-20251203-1006-UNOFFICIAL.zip/download",
+        "timestamp": 1764756141,
+        "md5": "60acba115f7933f6ef45d8bfdb2d973e",
+        "size": 2266025429,
+        "version": "5.3"
     }
   ]
 }
